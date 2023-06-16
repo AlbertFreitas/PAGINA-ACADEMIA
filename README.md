@@ -2,10 +2,10 @@
 
 
 <h1 align="center">
-<a href="" target="_blank">💻📰Veja Sobre o Projeto</a>
+<a href="https://albertfreitas.github.io/PAGINA-ACADEMIA/" target="_blank">💻📰Veja Sobre o Projeto</a>
 
 <p align="center">🚀 Card criado como exemplo de um site de academia em modelo moderno!</p>
-
+  <p OBS *** SITE NAO RESPONSIVO!!! att.</p>
 
 
 ### 🛠 Tecnologias
